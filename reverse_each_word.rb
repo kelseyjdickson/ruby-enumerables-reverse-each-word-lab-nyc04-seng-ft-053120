@@ -3,7 +3,7 @@ def reverse_each_word(string)
   new_arr = []
   
   string.collect do |word|
-    word. 
+    new_arr << word 
   end
-  
+  new_arr.reverse
 end
