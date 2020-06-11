@@ -8,5 +8,5 @@ def reverse_each_word(string)
     
   end
  
-  test_arr.join('')
+  test_arr.join(' ')
 end
