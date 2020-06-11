@@ -8,5 +8,5 @@ def reverse_each_word(string)
     
   end
   binding.pry
-  new_arr
+  test_arr
 end
