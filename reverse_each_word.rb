@@ -4,7 +4,7 @@ def reverse_each_word(string)
   test_arr = []
   
   string.collect do |word|
-    new_arr << word.reverse
+    test_arr << word.reverse
     
   end
   binding.pry
